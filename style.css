@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.body{
+    width: 130px;
+    height: 200px;
+    align-items: center;
+    margin: 100px auto;
+    border-radius: 65px;
+    background-color: rgb(247, 192, 51);
+}
+.eye1{
+    border: 6px solid silver;
+    width: 65px;
+    height: 65px;
+    background-color: #faf6f6;
+    border-radius: 65px;
+    position: relative;
+    left: 289px;
+    bottom: 278px;
+}
+.eye2{
+    border: 6px solid silver;
+    width: 65px;
+    height: 65px;
+    background-color: #fff;
+    border-radius: 65px;
+    position: relative;
+    left: 348px;
+    bottom: 343px;
+}
+.eye3{
+    border: 5px solid orange;
+    width: 20px;
+    height: 20px;
+    background-color: #100f0f;
+    border-radius: 65px;
+    position: relative;
+    left: 318px;
+    bottom: 380px;
+}
+.eye4{
+    border: 5px solid orange;
+    width: 20px;
+    height: 20px;
+    background-color: #100f0f;
+    border-radius: 65px;
+    position: relative;
+    left: 363px;
+    bottom: 400px;
+}
+
+.mouth{
+    border: 1px solid black;
+    width: 40px;
+    height: 1px;
+    background-color: #f8f5f5;
+    position: relative;
+    left: 330px;
+    bottom: 370px;
+}
+.shirt{
+    width: 125px;
+    height: 49px;
+    background-color: #058cf4;
+    border-radius: 0px 0px 90px 90px;
+    position: relative;
+    left: 289px;
+    bottom: 319px;
+}
+.shirt2{
+    width: 80px;
+    height: 49px;
+    background-color: #058cf4;
+    position: relative;
+    left: 311px;
+    bottom: 399px;
+}
+.shirt3{
+    width: 25px;
+    height: 7px;
+    background-color: #058cf4;
+    position: relative;
+    left: 391px;
+    bottom: 448px;
+}
+.shirt4{
+    width: 25px;
+    height: 7px;
+    background-color: #058cf4;
+    position: relative;
+    left: 286px;
+    bottom: 455px;
+}
+.logo{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #0c0d0d;
+    position: relative;
+    left: 334px;
+    bottom: 450px;
+    color: #058cf4;
+}
+.logo2{
+    width: 17px;
+    height: 17px;
+    transform: rotate(45deg);
+    background-color: #058cf4;
+    position: relative;
+    left: 340px;
+    bottom: 474px;
+}
